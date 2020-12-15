@@ -1,0 +1,38 @@
+.lawyers {
+  float: left;
+  padding: 120px 0;
+  width: 100%;
+  position: relative;
+
+  .wrapWide {
+    padding: 0 50px;
+    max-width: 1180px;
+    margin: 0 auto;
+    display: flex;
+    .lawyerTitle {
+      h2 {
+        font-family: "Source Serif Pro", serif;
+        font-size: 38px;
+        color: #3a3a3c;
+        line-height: 42px;
+        font-weight: 700;
+      }
+      float: left;
+      width: 20%;
+      margin-right: 15%;
+    }
+    .lawyerSubTitle {
+      float: left;
+      width: 65%;
+      padding-right: 30px;
+      position: relative;
+      p {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 16px;
+        color: #777a7c;
+        line-height: 32px;
+        margin-bottom: 30px;
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+.subBlock {
+  left: 50%;
+  top: 20%;
+  transform: translate(-50%, -50%);
+  position: relative;
+  display: inline-block;
+  max-width: 1040px;
+  padding: 50px 0px;
+  background: url("/minerva-header.svg") center right no-repeat;
+  height: 430px;
+}
+.headerLeft {
+  float: left;
+  width: 60%;
+  margin-right: 40%;
+  h3 {
+    color: #698c95;
+  }
+  h1 {
+    font-family: "Source Serif Pro", serif;
+    font-size: 60px;
+    color: #3a3a3c;
+    line-height: 68px;
+    font-weight: 700;
+  }
+  p {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 16px;
+    color: #777a7c;
+    line-height: 32px;
+    margin-bottom: 30px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .subBlock {
+    background-size: 250px;
+    left: 50%;
+    top: 42%;
+    padding: 0px 40px;
+    background: none;
+    .headerLeft {
+      float: left;
+      width: 100%;
+      margin-right: 0;
+      h1 {
+        font-size: 32px;
+        line-height: 36px;
+      }
+      h3 {
+        font-size: 18px;
+        line-height: 28px;
+      }
+    }
+  }
+}

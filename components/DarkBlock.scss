@@ -1,0 +1,126 @@
+.darkBlock {
+  float: left;
+  background: #3a3a3c;
+  padding: 230px 0 120px 0;
+  width: 100%;
+  .headerImage {
+    background: url("/header-image.jpg") center right no-repeat;
+    background-size: cover;
+  }
+}
+.headerImage {
+  position: absolute;
+  top: calc(100% - 200px);
+  width: calc(100% - 100px);
+  height: 340px;
+  bottom: 0;
+  left: 100px;
+}
+.headerContact {
+  background: #698c95;
+  height: 200px;
+  float: right;
+
+  height: 80px;
+  bottom: 120px;
+  padding: 40px 0;
+  width: 400px;
+  top: calc(100% - 420px);
+  li {
+    padding: 0px 10px 0 30px;
+    margin: 0;
+    list-style-type: none;
+    cursor: pointer;
+    float: left;
+    width: fit-content;
+    max-width: -webkit-fill-available;
+    line-height: 30px;
+    padding: 5px 70px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 17px;
+    span {
+      font-weight: 500;
+      color: rgba(255, 255, 255, 0.5);
+      margin-right: 10px;
+    }
+    a {
+      font-weight: 600;
+      color: #fff;
+      line-height: 20px;
+      padding: 10px 10px;
+      text-decoration: none;
+    }
+  }
+}
+
+.shapes {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  width: 100%;
+  p {
+    color: rgba(255, 255, 255, 0.7);
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 16px;
+    /* color: #777A7C; */
+    line-height: 32px;
+    margin: 30px;
+  }
+
+  h3 {
+    color: #fff;
+  }
+}
+
+@media screen and (max-width: 1300px), screen and (min-width: 960px) {
+  .darkBlock {
+    float: left;
+    background: #3a3a3c;
+    width: 100%;
+  }
+  .headerImage {
+    top: calc(100% - 350px);
+    width: calc(100% - 80px);
+    height: 340px;
+    left: 80px;
+  }
+  .headerContact {
+    height: 80px;
+    bottom: 80px;
+    width: 360px;
+    position: relative;
+    top: calc(0% - 320px);
+  }
+  .shapes {
+    margin-top: 60px;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .darkBlock {
+    position: relative;
+  }
+  .headerImage {
+    width: 100%;
+    height: 160px;
+    //left: 0px;
+    left: 0;
+    top: 0%;
+  }
+  .headerContact {
+    bottom: 0;
+    padding: 30px 0;
+    position: absolute;
+    width: 100%;
+    height: 72px;
+    left: 0;
+    top: calc(0% + 160px);
+  }
+  .shapes {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 80px;
+  }
+}
