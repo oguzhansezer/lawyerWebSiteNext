@@ -101,37 +101,7 @@ module.exports =
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Block", function() { return Block; });
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _SubBlock__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SubBlock */ "./components/SubBlock.js");
-
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\components\\Block.js";
-
-const Block = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["Fragment"], {
-    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_SubBlock__WEBPACK_IMPORTED_MODULE_1__["default"], {}, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 7
-    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("a", {
-      href: "#waardes",
-      className: "scroll-down"
-    }, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "header-image"
-    }, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 7
-    }, undefined)]
-  }, void 0, true);
-};
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"Block\", function() { return Block; });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _SubBlock__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SubBlock */ \"./components/SubBlock.js\");\n\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/components/Block.js\";\n\nconst Block = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"Fragment\"], {\n    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_SubBlock__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {}, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 7\n    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"a\", {\n      href: \"#waardes\",\n      className: \"scroll-down\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 7\n    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"header-image\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 7\n    }, undefined)]\n  }, void 0, true);\n};//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0Jsb2NrLmpzPzlkODQiXSwibmFtZXMiOlsiQmxvY2siXSwibWFwcGluZ3MiOiI7Ozs7Ozs7O0FBQUE7QUFDTyxNQUFNQSxLQUFLLEdBQUcsTUFBTTtBQUN6QixzQkFDRTtBQUFBLDRCQUNFLHFFQUFDLGlEQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEsaUJBREYsZUFFRTtBQUFHLFVBQUksRUFBQyxVQUFSO0FBQW1CLGVBQVMsRUFBQztBQUE3QjtBQUFBO0FBQUE7QUFBQTtBQUFBLGlCQUZGLGVBR0U7QUFBSyxlQUFTLEVBQUM7QUFBZjtBQUFBO0FBQUE7QUFBQTtBQUFBLGlCQUhGO0FBQUEsa0JBREY7QUFPRCxDQVJNIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9CbG9jay5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBTdWJCbG9jayBmcm9tIFwiLi9TdWJCbG9ja1wiO1xuZXhwb3J0IGNvbnN0IEJsb2NrID0gKCkgPT4ge1xuICByZXR1cm4gKFxuICAgIDw+XG4gICAgICA8U3ViQmxvY2sgLz5cbiAgICAgIDxhIGhyZWY9XCIjd2FhcmRlc1wiIGNsYXNzTmFtZT1cInNjcm9sbC1kb3duXCI+PC9hPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXItaW1hZ2VcIj48L2Rpdj5cbiAgICA8Lz5cbiAgKTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Block.js\n");
 
 /***/ }),
 
@@ -143,154 +113,7 @@ const Block = () => {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DarkBlock", function() { return DarkBlock; });
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _DarkBlock_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./DarkBlock.scss */ "./components/DarkBlock.scss");
-/* harmony import */ var _DarkBlock_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_DarkBlock_scss__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _styles_icons_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/icons.js */ "./styles/icons.js");
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\components\\DarkBlock.js";
-
-
-const DarkBlock = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-    className: "darkBlock",
-    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "headerImage"
-    }, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "headerContact",
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("li", {
-        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("span", {
-          children: "E:"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 9,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("a", {
-          href: "mailto:info@minerva-advocaten.nl",
-          children: "nilsuonder@gmail.com"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 10,
-          columnNumber: 11
-        }, undefined)]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 8,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("li", {
-        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("span", {
-          children: "T:"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 15,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("a", {
-          href: "tel:+31103076677",
-          children: "+544 520 70 97"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 16,
-          columnNumber: 11
-        }, undefined)]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 14,
-        columnNumber: 9
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 7,
-      columnNumber: 7
-    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "shapes",
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "shape",
-        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_styles_icons_js__WEBPACK_IMPORTED_MODULE_2__["Shape1"], {}, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 22,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h3", {
-          children: "Ceza Hukuku"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 23,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
-          children: "A\u011F\u0131r ceza avukat\u0131 olarak, Anayasam\u0131zca korunan adil yarg\u0131lanma hakk\u0131 \xE7er\xE7evesinde m\xFCvekkillerimizi savunmak ve ceza davalar\u0131nda m\xFC\u015Fteki vekili olarak ceza davas\u0131n\u0131n takibi gibi konularda hizmet vermekteyiz."
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 24,
-          columnNumber: 11
-        }, undefined)]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 21,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "shape",
-        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_styles_icons_js__WEBPACK_IMPORTED_MODULE_2__["Shape2"], {}, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 33,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h3", {
-          children: "Ticaret ve \u015Eirketler Hukuku"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 34,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
-          children: "\u015Eirketler aras\u0131 ticari ili\u015Fkilerde s\xF6zle\u015Fmelerin haz\u0131rlanmas\u0131, i\u015F\xE7ilerle alakal\u0131 fesih ve di\u011Fer i\u015Flemler gibi konularda ve \xE7ek senet tahsili konular\u0131nda ticaret ve \u015Firketler hukuku avukat\u0131 olarak hukuki dan\u0131\u015Fmanl\u0131k ve profesyonel avukatl\u0131k hizmeti vermekteyiz."
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 35,
-          columnNumber: 11
-        }, undefined)]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 32,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "shape",
-        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_styles_icons_js__WEBPACK_IMPORTED_MODULE_2__["Shape3"], {}, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 44,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h3", {
-          children: "Spor Hukuku"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 45,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
-          children: "Sporcular\u0131n s\xF6zle\u015Fmelerinden do\u011Fan uyu\u015Fmazl\u0131klar\u0131n \xE7\xF6z\xFCm\xFC, alacaklar\u0131n\u0131n tahsili ve spor kul\xFCplerine dan\u0131\u015Fmanl\u0131k gibi konularda spor hukuku avukat\u0131 olarak hizmeti vermekteyiz."
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 46,
-          columnNumber: 11
-        }, undefined)]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 43,
-        columnNumber: 9
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 20,
-      columnNumber: 7
-    }, undefined)]
-  }, void 0, true, {
-    fileName: _jsxFileName,
-    lineNumber: 5,
-    columnNumber: 5
-  }, undefined);
-};
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"DarkBlock\", function() { return DarkBlock; });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _DarkBlock_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./DarkBlock.scss */ \"./components/DarkBlock.scss\");\n/* harmony import */ var _DarkBlock_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_DarkBlock_scss__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _styles_icons_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../styles/icons.js */ \"./styles/icons.js\");\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/components/DarkBlock.js\";\n\n\nconst DarkBlock = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n    className: \"darkBlock\",\n    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"headerImage\"\n    }, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 7\n    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"headerContact\",\n      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"li\", {\n        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"span\", {\n          children: \"E:\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 9,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"a\", {\n          href: \"mailto:info@minerva-advocaten.nl\",\n          children: \"nilsuonder@gmail.com\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 10,\n          columnNumber: 11\n        }, undefined)]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 8,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"li\", {\n        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"span\", {\n          children: \"T:\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 15,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"a\", {\n          href: \"tel:+31103076677\",\n          children: \"+544 520 70 97\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 16,\n          columnNumber: 11\n        }, undefined)]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 14,\n        columnNumber: 9\n      }, undefined)]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 7,\n      columnNumber: 7\n    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"shapes\",\n      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"shape\",\n        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_styles_icons_js__WEBPACK_IMPORTED_MODULE_2__[\"Shape1\"], {}, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 22,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h3\", {\n          children: \"Ceza Hukuku\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 23,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"p\", {\n          children: \"A\\u011F\\u0131r ceza avukat\\u0131 olarak, Anayasam\\u0131zca korunan adil yarg\\u0131lanma hakk\\u0131 \\xE7er\\xE7evesinde m\\xFCvekkillerimizi savunmak ve ceza davalar\\u0131nda m\\xFC\\u015Fteki vekili olarak ceza davas\\u0131n\\u0131n takibi gibi konularda hizmet vermekteyiz.\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 24,\n          columnNumber: 11\n        }, undefined)]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 21,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"shape\",\n        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_styles_icons_js__WEBPACK_IMPORTED_MODULE_2__[\"Shape2\"], {}, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 33,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h3\", {\n          children: \"Ticaret ve \\u015Eirketler Hukuku\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 34,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"p\", {\n          children: \"\\u015Eirketler aras\\u0131 ticari ili\\u015Fkilerde s\\xF6zle\\u015Fmelerin haz\\u0131rlanmas\\u0131, i\\u015F\\xE7ilerle alakal\\u0131 fesih ve di\\u011Fer i\\u015Flemler gibi konularda ve \\xE7ek senet tahsili konular\\u0131nda ticaret ve \\u015Firketler hukuku avukat\\u0131 olarak hukuki dan\\u0131\\u015Fmanl\\u0131k ve profesyonel avukatl\\u0131k hizmeti vermekteyiz.\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 35,\n          columnNumber: 11\n        }, undefined)]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 32,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"shape\",\n        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_styles_icons_js__WEBPACK_IMPORTED_MODULE_2__[\"Shape3\"], {}, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 44,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h3\", {\n          children: \"Spor Hukuku\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 45,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"p\", {\n          children: \"Sporcular\\u0131n s\\xF6zle\\u015Fmelerinden do\\u011Fan uyu\\u015Fmazl\\u0131klar\\u0131n \\xE7\\xF6z\\xFCm\\xFC, alacaklar\\u0131n\\u0131n tahsili ve spor kul\\xFCplerine dan\\u0131\\u015Fmanl\\u0131k gibi konularda spor hukuku avukat\\u0131 olarak hizmeti vermekteyiz.\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 46,\n          columnNumber: 11\n        }, undefined)]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 43,\n        columnNumber: 9\n      }, undefined)]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 20,\n      columnNumber: 7\n    }, undefined)]\n  }, void 0, true, {\n    fileName: _jsxFileName,\n    lineNumber: 5,\n    columnNumber: 5\n  }, undefined);\n};//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0RhcmtCbG9jay5qcz9mNjY1Il0sIm5hbWVzIjpbIkRhcmtCbG9jayJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7O0FBQUE7QUFDQTtBQUNPLE1BQU1BLFNBQVMsR0FBRyxNQUFNO0FBQzdCLHNCQUNFO0FBQUssYUFBUyxFQUFDLFdBQWY7QUFBQSw0QkFDRTtBQUFLLGVBQVMsRUFBQztBQUFmO0FBQUE7QUFBQTtBQUFBO0FBQUEsaUJBREYsZUFFRTtBQUFLLGVBQVMsRUFBQyxlQUFmO0FBQUEsOEJBQ0U7QUFBQSxnQ0FDRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxxQkFERixlQUVFO0FBQUcsY0FBSSxFQUFDLGtDQUFSO0FBQUEsb0JBQ0c7QUFESDtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQUZGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFERixlQU9FO0FBQUEsZ0NBQ0U7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBREYsZUFFRTtBQUFHLGNBQUksRUFBQyxrQkFBUjtBQUFBLG9CQUE0QjtBQUE1QjtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQUZGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFQRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsaUJBRkYsZUFlRTtBQUFLLGVBQVMsRUFBQyxRQUFmO0FBQUEsOEJBQ0U7QUFBSyxpQkFBUyxFQUFDLE9BQWY7QUFBQSxnQ0FDRSxxRUFBQyx1REFBRDtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQURGLGVBRUU7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBRkYsZUFHRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxxQkFIRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBREYsZUFZRTtBQUFLLGlCQUFTLEVBQUMsT0FBZjtBQUFBLGdDQUNFLHFFQUFDLHVEQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBREYsZUFFRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxxQkFGRixlQUdFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQUhGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFaRixlQXVCRTtBQUFLLGlCQUFTLEVBQUMsT0FBZjtBQUFBLGdDQUNFLHFFQUFDLHVEQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBREYsZUFFRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxxQkFGRixlQUdFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQUhGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkF2QkY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGlCQWZGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQURGO0FBbURELENBcERNIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9EYXJrQmxvY2suanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgXCIuL0RhcmtCbG9jay5zY3NzXCI7XG5pbXBvcnQgeyBTaGFwZTEsIFNoYXBlMiwgU2hhcGUzIH0gZnJvbSBcIi4uL3N0eWxlcy9pY29ucy5qc1wiO1xuZXhwb3J0IGNvbnN0IERhcmtCbG9jayA9ICgpID0+IHtcbiAgcmV0dXJuIChcbiAgICA8ZGl2IGNsYXNzTmFtZT1cImRhcmtCbG9ja1wiPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXJJbWFnZVwiPjwvZGl2PlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXJDb250YWN0XCI+XG4gICAgICAgIDxsaT5cbiAgICAgICAgICA8c3Bhbj5FOjwvc3Bhbj5cbiAgICAgICAgICA8YSBocmVmPVwibWFpbHRvOmluZm9AbWluZXJ2YS1hZHZvY2F0ZW4ubmxcIj5cbiAgICAgICAgICAgIHtcIm5pbHN1b25kZXJAZ21haWwuY29tXCJ9XG4gICAgICAgICAgPC9hPlxuICAgICAgICA8L2xpPlxuICAgICAgICA8bGk+XG4gICAgICAgICAgPHNwYW4+VDo8L3NwYW4+XG4gICAgICAgICAgPGEgaHJlZj1cInRlbDorMzExMDMwNzY2NzdcIj57XCIrNTQ0IDUyMCA3MCA5N1wifTwvYT5cbiAgICAgICAgPC9saT5cbiAgICAgIDwvZGl2PlxuXG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cInNoYXBlc1wiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNoYXBlXCI+XG4gICAgICAgICAgPFNoYXBlMSAvPlxuICAgICAgICAgIDxoMz5DZXphIEh1a3VrdTwvaDM+XG4gICAgICAgICAgPHA+XG4gICAgICAgICAgICBBxJ/EsXIgY2V6YSBhdnVrYXTEsSBvbGFyYWssIEFuYXlhc2FtxLF6Y2Ega29ydW5hbiBhZGlsIHlhcmfEsWxhbm1hIGhha2vEsVxuICAgICAgICAgICAgw6dlcsOnZXZlc2luZGUgbcO8dmVra2lsbGVyaW1pemkgc2F2dW5tYWsgdmUgY2V6YSBkYXZhbGFyxLFuZGEgbcO8xZ90ZWtpXG4gICAgICAgICAgICB2ZWtpbGkgb2xhcmFrIGNlemEgZGF2YXPEsW7EsW4gdGFraWJpIGdpYmkga29udWxhcmRhIGhpem1ldFxuICAgICAgICAgICAgdmVybWVrdGV5aXouXG4gICAgICAgICAgPC9wPlxuICAgICAgICA8L2Rpdj5cblxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cInNoYXBlXCI+XG4gICAgICAgICAgPFNoYXBlMiAvPlxuICAgICAgICAgIDxoMz5UaWNhcmV0IHZlIMWeaXJrZXRsZXIgSHVrdWt1PC9oMz5cbiAgICAgICAgICA8cD5cbiAgICAgICAgICAgIMWeaXJrZXRsZXIgYXJhc8SxIHRpY2FyaSBpbGnFn2tpbGVyZGUgc8O2emxlxZ9tZWxlcmluIGhhesSxcmxhbm1hc8SxLFxuICAgICAgICAgICAgacWfw6dpbGVybGUgYWxha2FsxLEgZmVzaWggdmUgZGnEn2VyIGnFn2xlbWxlciBnaWJpIGtvbnVsYXJkYSB2ZSDDp2VrXG4gICAgICAgICAgICBzZW5ldCB0YWhzaWxpIGtvbnVsYXLEsW5kYSB0aWNhcmV0IHZlIMWfaXJrZXRsZXIgaHVrdWt1IGF2dWthdMSxIG9sYXJha1xuICAgICAgICAgICAgaHVrdWtpIGRhbsSxxZ9tYW5sxLFrIHZlIHByb2Zlc3lvbmVsIGF2dWthdGzEsWsgaGl6bWV0aSB2ZXJtZWt0ZXlpei5cbiAgICAgICAgICA8L3A+XG4gICAgICAgIDwvZGl2PlxuXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwic2hhcGVcIj5cbiAgICAgICAgICA8U2hhcGUzIC8+XG4gICAgICAgICAgPGgzPlNwb3IgSHVrdWt1PC9oMz5cbiAgICAgICAgICA8cD5cbiAgICAgICAgICAgIFNwb3JjdWxhcsSxbiBzw7Z6bGXFn21lbGVyaW5kZW4gZG/En2FuIHV5dcWfbWF6bMSxa2xhcsSxbiDDp8O2esO8bcO8LFxuICAgICAgICAgICAgYWxhY2FrbGFyxLFuxLFuIHRhaHNpbGkgdmUgc3BvciBrdWzDvHBsZXJpbmUgZGFuxLHFn21hbmzEsWsgZ2liaSBrb251bGFyZGFcbiAgICAgICAgICAgIHNwb3IgaHVrdWt1IGF2dWthdMSxIG9sYXJhayBoaXptZXRpIHZlcm1la3RleWl6LlxuICAgICAgICAgIDwvcD5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgKTtcbn07XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/DarkBlock.js\n");
 
 /***/ }),
 
@@ -301,7 +124,7 @@ const DarkBlock = () => {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2NvbXBvbmVudHMvRGFya0Jsb2NrLnNjc3MuanMiLCJzb3VyY2VzQ29udGVudCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/DarkBlock.scss\n");
 
 /***/ }),
 
@@ -313,106 +136,7 @@ const DarkBlock = () => {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Lawyers", function() { return Lawyers; });
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Lawyers_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Lawyers.scss */ "./components/Lawyers.scss");
-/* harmony import */ var _Lawyers_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Lawyers_scss__WEBPACK_IMPORTED_MODULE_1__);
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\components\\Lawyers.js";
-
-const Lawyers = () => {
-  const LawyerTitle = () => {
-    return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "wrapWide",
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "lawyerTitle",
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h2", {
-          children: "Onze Advocaten"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 7,
-          columnNumber: 11
-        }, undefined)
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 6,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "lawyerSubTitle",
-        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
-          children: "Onze Advocaten Ons team bestaat uit de advocaten Marcel van den Ende, Jack Leeman en Hein Kernkamp; in hun praktijkvoering worden zij ondersteund door officemanager Jacqueline Blok."
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 10,
-          columnNumber: 11
-        }, undefined)
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 9,
-        columnNumber: 9
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 7
-    }, undefined);
-  };
-
-  const LawyerBlocks = () => {
-    return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "advocaat",
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "lawyerTransparent"
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 23,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-        className: "LawyerInfo",
-        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h3", {
-          children: "Advocaat"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 25,
-          columnNumber: 11
-        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h2", {
-          children: "Marcel van den Ende"
-        }, void 0, false, {
-          fileName: _jsxFileName,
-          lineNumber: 26,
-          columnNumber: 11
-        }, undefined)]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 24,
-        columnNumber: 9
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 22,
-      columnNumber: 7
-    }, undefined);
-  };
-
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-    className: "lawyers",
-    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(LawyerTitle, {}, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 34,
-      columnNumber: 7
-    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(LawyerBlocks, {}, void 0, false, {
-      fileName: _jsxFileName,
-      lineNumber: 35,
-      columnNumber: 7
-    }, undefined)]
-  }, void 0, true, {
-    fileName: _jsxFileName,
-    lineNumber: 33,
-    columnNumber: 5
-  }, undefined);
-};
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"Lawyers\", function() { return Lawyers; });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _Lawyers_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Lawyers.scss */ \"./components/Lawyers.scss\");\n/* harmony import */ var _Lawyers_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Lawyers_scss__WEBPACK_IMPORTED_MODULE_1__);\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/components/Lawyers.js\";\n\nconst Lawyers = () => {\n  const LawyerTitle = () => {\n    return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"wrapWide\",\n      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"lawyerTitle\",\n        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h2\", {\n          children: \"Onze Advocaten\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 7,\n          columnNumber: 11\n        }, undefined)\n      }, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 6,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"lawyerSubTitle\",\n        children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"p\", {\n          children: \"Onze Advocaten Ons team bestaat uit de advocaten Marcel van den Ende, Jack Leeman en Hein Kernkamp; in hun praktijkvoering worden zij ondersteund door officemanager Jacqueline Blok.\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 10,\n          columnNumber: 11\n        }, undefined)\n      }, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 9,\n        columnNumber: 9\n      }, undefined)]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 7\n    }, undefined);\n  };\n\n  const LawyerBlocks = () => {\n    return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"advocaat\",\n      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"lawyerTransparent\"\n      }, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 23,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n        className: \"LawyerInfo\",\n        children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h3\", {\n          children: \"Advocaat\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 25,\n          columnNumber: 11\n        }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h2\", {\n          children: \"Marcel van den Ende\"\n        }, void 0, false, {\n          fileName: _jsxFileName,\n          lineNumber: 26,\n          columnNumber: 11\n        }, undefined)]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 24,\n        columnNumber: 9\n      }, undefined)]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 22,\n      columnNumber: 7\n    }, undefined);\n  };\n\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n    className: \"lawyers\",\n    children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(LawyerTitle, {}, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 34,\n      columnNumber: 7\n    }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(LawyerBlocks, {}, void 0, false, {\n      fileName: _jsxFileName,\n      lineNumber: 35,\n      columnNumber: 7\n    }, undefined)]\n  }, void 0, true, {\n    fileName: _jsxFileName,\n    lineNumber: 33,\n    columnNumber: 5\n  }, undefined);\n};//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0xhd3llcnMuanM/ZjU3OSJdLCJuYW1lcyI6WyJMYXd5ZXJzIiwiTGF3eWVyVGl0bGUiLCJMYXd5ZXJCbG9ja3MiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7O0FBQUE7QUFDTyxNQUFNQSxPQUFPLEdBQUcsTUFBTTtBQUMzQixRQUFNQyxXQUFXLEdBQUcsTUFBTTtBQUN4Qix3QkFDRTtBQUFLLGVBQVMsRUFBQyxVQUFmO0FBQUEsOEJBQ0U7QUFBSyxpQkFBUyxFQUFDLGFBQWY7QUFBQSwrQkFDRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQURGO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBREYsZUFJRTtBQUFLLGlCQUFTLEVBQUMsZ0JBQWY7QUFBQSwrQkFDRTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQURGO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBSkY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLGlCQURGO0FBY0QsR0FmRDs7QUFpQkEsUUFBTUMsWUFBWSxHQUFHLE1BQU07QUFDekIsd0JBQ0U7QUFBSyxlQUFTLEVBQUMsVUFBZjtBQUFBLDhCQUNFO0FBQUssaUJBQVMsRUFBQztBQUFmO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBREYsZUFFRTtBQUFLLGlCQUFTLEVBQUMsWUFBZjtBQUFBLGdDQUNFO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLHFCQURGLGVBRUU7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBRkY7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLG1CQUZGO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBQSxpQkFERjtBQVNELEdBVkQ7O0FBWUEsc0JBQ0U7QUFBSyxhQUFTLEVBQUMsU0FBZjtBQUFBLDRCQUNFLHFFQUFDLFdBQUQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxpQkFERixlQUVFLHFFQUFDLFlBQUQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxpQkFGRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUEsZUFERjtBQU1ELENBcENNIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9MYXd5ZXJzLmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IFwiLi9MYXd5ZXJzLnNjc3NcIjtcbmV4cG9ydCBjb25zdCBMYXd5ZXJzID0gKCkgPT4ge1xuICBjb25zdCBMYXd5ZXJUaXRsZSA9ICgpID0+IHtcbiAgICByZXR1cm4gKFxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJ3cmFwV2lkZVwiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImxhd3llclRpdGxlXCI+XG4gICAgICAgICAgPGgyPk9uemUgQWR2b2NhdGVuPC9oMj5cbiAgICAgICAgPC9kaXY+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwibGF3eWVyU3ViVGl0bGVcIj5cbiAgICAgICAgICA8cD5cbiAgICAgICAgICAgIE9uemUgQWR2b2NhdGVuIE9ucyB0ZWFtIGJlc3RhYXQgdWl0IGRlIGFkdm9jYXRlbiBNYXJjZWwgdmFuIGRlblxuICAgICAgICAgICAgRW5kZSwgSmFjayBMZWVtYW4gZW4gSGVpbiBLZXJua2FtcDsgaW4gaHVuIHByYWt0aWprdm9lcmluZyB3b3JkZW5cbiAgICAgICAgICAgIHppaiBvbmRlcnN0ZXVuZCBkb29yIG9mZmljZW1hbmFnZXIgSmFjcXVlbGluZSBCbG9rLlxuICAgICAgICAgIDwvcD5cbiAgICAgICAgPC9kaXY+XG4gICAgICA8L2Rpdj5cbiAgICApO1xuICB9O1xuXG4gIGNvbnN0IExhd3llckJsb2NrcyA9ICgpID0+IHtcbiAgICByZXR1cm4gKFxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJhZHZvY2FhdFwiPlxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImxhd3llclRyYW5zcGFyZW50XCI+PC9kaXY+XG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwiTGF3eWVySW5mb1wiPlxuICAgICAgICAgIDxoMz5BZHZvY2FhdDwvaDM+XG4gICAgICAgICAgPGgyPk1hcmNlbCB2YW4gZGVuIEVuZGU8L2gyPlxuICAgICAgICA8L2Rpdj5cbiAgICAgIDwvZGl2PlxuICAgICk7XG4gIH07XG5cbiAgcmV0dXJuIChcbiAgICA8ZGl2IGNsYXNzTmFtZT1cImxhd3llcnNcIj5cbiAgICAgIDxMYXd5ZXJUaXRsZSAvPlxuICAgICAgPExhd3llckJsb2NrcyAvPlxuICAgIDwvZGl2PlxuICApO1xufTtcbiJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/Lawyers.js\n");
 
 /***/ }),
 
@@ -423,7 +147,7 @@ const Lawyers = () => {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2NvbXBvbmVudHMvTGF3eWVycy5zY3NzLmpzIiwic291cmNlc0NvbnRlbnQiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./components/Lawyers.scss\n");
 
 /***/ }),
 
@@ -435,38 +159,7 @@ const Lawyers = () => {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _Layout_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Layout.scss */ "./components/Layout.scss");
-/* harmony import */ var _Layout_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Layout_scss__WEBPACK_IMPORTED_MODULE_1__);
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\components\\Layout.js";
-
-/* eslint-disable react/prop-types */
-
-
-const Layout = ({
-  children
-}) => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-    className: "layout",
-    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "content",
-      children: [" ", children, " "]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 6,
-      columnNumber: 7
-    }, undefined)
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 5,
-    columnNumber: 5
-  }, undefined);
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (Layout);
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _Layout_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Layout.scss */ \"./components/Layout.scss\");\n/* harmony import */ var _Layout_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Layout_scss__WEBPACK_IMPORTED_MODULE_1__);\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/components/Layout.js\";\n\n/* eslint-disable react/prop-types */\n\n\nconst Layout = ({\n  children\n}) => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n    className: \"layout\",\n    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"content\",\n      children: [\" \", children, \" \"]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 6,\n      columnNumber: 7\n    }, undefined)\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 5,\n    columnNumber: 5\n  }, undefined);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (Layout);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0xheW91dC5qcz9lNThhIl0sIm5hbWVzIjpbIkxheW91dCIsImNoaWxkcmVuIl0sIm1hcHBpbmdzIjoiOzs7Ozs7OztBQUFBO0FBQ0E7O0FBQ0EsTUFBTUEsTUFBTSxHQUFHLENBQUM7QUFBRUM7QUFBRixDQUFELEtBQWtCO0FBQy9CLHNCQUNFO0FBQUssYUFBUyxFQUFDLFFBQWY7QUFBQSwyQkFDRTtBQUFLLGVBQVMsRUFBQyxTQUFmO0FBQUEsc0JBQTJCQSxRQUEzQjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFERjtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBREY7QUFLRCxDQU5EOztBQU9lRCxxRUFBZiIsImZpbGUiOiIuL2NvbXBvbmVudHMvTGF5b3V0LmpzLmpzIiwic291cmNlc0NvbnRlbnQiOlsiLyogZXNsaW50LWRpc2FibGUgcmVhY3QvcHJvcC10eXBlcyAqL1xuaW1wb3J0IFwiLi9MYXlvdXQuc2Nzc1wiO1xuY29uc3QgTGF5b3V0ID0gKHsgY2hpbGRyZW4gfSkgPT4ge1xuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPVwibGF5b3V0XCI+XG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImNvbnRlbnRcIj4ge2NoaWxkcmVufSA8L2Rpdj5cbiAgICA8L2Rpdj5cbiAgKTtcbn07XG5leHBvcnQgZGVmYXVsdCBMYXlvdXQ7XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/Layout.js\n");
 
 /***/ }),
 
@@ -477,7 +170,7 @@ const Layout = ({
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2NvbXBvbmVudHMvTGF5b3V0LnNjc3MuanMiLCJzb3VyY2VzQ29udGVudCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./components/Layout.scss\n");
 
 /***/ }),
 
@@ -489,53 +182,7 @@ const Layout = ({
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _SubBlock_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SubBlock.scss */ "./components/SubBlock.scss");
-/* harmony import */ var _SubBlock_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_SubBlock_scss__WEBPACK_IMPORTED_MODULE_1__);
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\components\\SubBlock.js";
-
-
-const SubBlock = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-    className: "subBlock",
-    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("div", {
-      className: "headerLeft",
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h3", {
-        children: [" ", "Yenilikçi ve Kaliteli Hizmet"]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 6,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("h1", {
-        children: [" ", " Önder Hukuk ve Danışmanlık tüm hukuki sorunlarınızda yanınızda."]
-      }, void 0, true, {
-        fileName: _jsxFileName,
-        lineNumber: 7,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("p", {
-        children: ` Müvekkillerine en iyi şekilde hizmet vermek Önder Hukuk ve Danışmanlık Bürosu'nun ana prensibidir. 
-          Önder Hukuk olarak müvekkillerimize ihtiyaç duydukları hukuki desteği en hızlı ve en güvenilir şekilde sağlamaktayız.`
-      }, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 11,
-        columnNumber: 9
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 5,
-      columnNumber: 7
-    }, undefined)
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 4,
-    columnNumber: 5
-  }, undefined);
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (SubBlock);
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _SubBlock_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SubBlock.scss */ \"./components/SubBlock.scss\");\n/* harmony import */ var _SubBlock_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_SubBlock_scss__WEBPACK_IMPORTED_MODULE_1__);\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/components/SubBlock.js\";\n\n\nconst SubBlock = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n    className: \"subBlock\",\n    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"div\", {\n      className: \"headerLeft\",\n      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h3\", {\n        children: [\" \", \"Yenilikçi ve Kaliteli Hizmet\"]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 6,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"h1\", {\n        children: [\" \", \" Önder Hukuk ve Danışmanlık tüm hukuki sorunlarınızda yanınızda.\"]\n      }, void 0, true, {\n        fileName: _jsxFileName,\n        lineNumber: 7,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"p\", {\n        children: ` Müvekkillerine en iyi şekilde hizmet vermek Önder Hukuk ve Danışmanlık Bürosu'nun ana prensibidir. \n          Önder Hukuk olarak müvekkillerimize ihtiyaç duydukları hukuki desteği en hızlı ve en güvenilir şekilde sağlamaktayız.`\n      }, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 11,\n        columnNumber: 9\n      }, undefined)]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 5,\n      columnNumber: 7\n    }, undefined)\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 4,\n    columnNumber: 5\n  }, undefined);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (SubBlock);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL1N1YkJsb2NrLmpzPzI2NGIiXSwibmFtZXMiOlsiU3ViQmxvY2siXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFBQTs7QUFDQSxNQUFNQSxRQUFRLEdBQUcsTUFBTTtBQUNyQixzQkFDRTtBQUFLLGFBQVMsRUFBQyxVQUFmO0FBQUEsMkJBQ0U7QUFBSyxlQUFTLEVBQUMsWUFBZjtBQUFBLDhCQUNFO0FBQUEsd0JBQU0sOEJBQU47QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLG1CQURGLGVBRUU7QUFBQSxtQkFDRyxHQURILEVBRUcsa0VBRkg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBLG1CQUZGLGVBTUU7QUFBQSxrQkFDSTtBQUNaO0FBRlE7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFORjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFERjtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBREY7QUFlRCxDQWhCRDs7QUFpQmVBLHVFQUFmIiwiZmlsZSI6Ii4vY29tcG9uZW50cy9TdWJCbG9jay5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vU3ViQmxvY2suc2Nzc1wiO1xuY29uc3QgU3ViQmxvY2sgPSAoKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9XCJzdWJCbG9ja1wiPlxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXJMZWZ0XCI+XG4gICAgICAgIDxoMz4ge1wiWWVuaWxpa8OnaSB2ZSBLYWxpdGVsaSBIaXptZXRcIn08L2gzPlxuICAgICAgICA8aDE+XG4gICAgICAgICAge1wiIFwifVxuICAgICAgICAgIHtcIiDDlm5kZXIgSHVrdWsgdmUgRGFuxLHFn21hbmzEsWsgdMO8bSBodWt1a2kgc29ydW5sYXLEsW7EsXpkYSB5YW7EsW7EsXpkYS5cIn1cbiAgICAgICAgPC9oMT5cbiAgICAgICAgPHA+XG4gICAgICAgICAge2AgTcO8dmVra2lsbGVyaW5lIGVuIGl5aSDFn2VraWxkZSBoaXptZXQgdmVybWVrIMOWbmRlciBIdWt1ayB2ZSBEYW7EscWfbWFubMSxayBCw7xyb3N1J251biBhbmEgcHJlbnNpYmlkaXIuIFxuICAgICAgICAgIMOWbmRlciBIdWt1ayBvbGFyYWsgbcO8dmVra2lsbGVyaW1pemUgaWh0aXlhw6cgZHV5ZHVrbGFyxLEgaHVrdWtpIGRlc3RlxJ9pIGVuIGjEsXpsxLEgdmUgZW4gZ8O8dmVuaWxpciDFn2VraWxkZSBzYcSfbGFtYWt0YXnEsXouYH1cbiAgICAgICAgPC9wPlxuICAgICAgPC9kaXY+XG4gICAgPC9kaXY+XG4gICk7XG59O1xuZXhwb3J0IGRlZmF1bHQgU3ViQmxvY2s7XG4iXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/SubBlock.js\n");
 
 /***/ }),
 
@@ -546,7 +193,7 @@ const SubBlock = () => {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2NvbXBvbmVudHMvU3ViQmxvY2suc2Nzcy5qcyIsInNvdXJjZXNDb250ZW50IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./components/SubBlock.scss\n");
 
 /***/ }),
 
@@ -558,46 +205,7 @@ const SubBlock = () => {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ "./components/Layout.js");
-/* harmony import */ var _components_Block__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Block */ "./components/Block.js");
-/* harmony import */ var _components_DarkBlock__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/DarkBlock */ "./components/DarkBlock.js");
-/* harmony import */ var _components_Lawyers__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Lawyers */ "./components/Lawyers.js");
-
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\pages\\index.js";
-
-
-
-
-
-const HomePage = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["Fragment"], {
-    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_components_Layout__WEBPACK_IMPORTED_MODULE_1__["default"], {
-      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_components_Block__WEBPACK_IMPORTED_MODULE_2__["Block"], {}, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 9,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_components_DarkBlock__WEBPACK_IMPORTED_MODULE_3__["DarkBlock"], {}, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 10,
-        columnNumber: 9
-      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(_components_Lawyers__WEBPACK_IMPORTED_MODULE_4__["Lawyers"], {}, void 0, false, {
-        fileName: _jsxFileName,
-        lineNumber: 11,
-        columnNumber: 9
-      }, undefined)]
-    }, void 0, true, {
-      fileName: _jsxFileName,
-      lineNumber: 8,
-      columnNumber: 7
-    }, undefined)
-  }, void 0, false);
-};
-
-/* harmony default export */ __webpack_exports__["default"] = (HomePage);
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Layout__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../components/Layout */ \"./components/Layout.js\");\n/* harmony import */ var _components_Block__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/Block */ \"./components/Block.js\");\n/* harmony import */ var _components_DarkBlock__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../components/DarkBlock */ \"./components/DarkBlock.js\");\n/* harmony import */ var _components_Lawyers__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../components/Lawyers */ \"./components/Lawyers.js\");\n\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/pages/index.js\";\n\n\n\n\n\nconst HomePage = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"Fragment\"], {\n    children: /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_components_Layout__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n      children: [/*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_components_Block__WEBPACK_IMPORTED_MODULE_2__[\"Block\"], {}, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 9,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_components_DarkBlock__WEBPACK_IMPORTED_MODULE_3__[\"DarkBlock\"], {}, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 10,\n        columnNumber: 9\n      }, undefined), /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(_components_Lawyers__WEBPACK_IMPORTED_MODULE_4__[\"Lawyers\"], {}, void 0, false, {\n        fileName: _jsxFileName,\n        lineNumber: 11,\n        columnNumber: 9\n      }, undefined)]\n    }, void 0, true, {\n      fileName: _jsxFileName,\n      lineNumber: 8,\n      columnNumber: 7\n    }, undefined)\n  }, void 0, false);\n};\n\n/* harmony default export */ __webpack_exports__[\"default\"] = (HomePage);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wYWdlcy9pbmRleC5qcz80NGQ4Il0sIm5hbWVzIjpbIkhvbWVQYWdlIl0sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7O0FBQUE7QUFDQTtBQUNBO0FBQ0E7O0FBQ0EsTUFBTUEsUUFBUSxHQUFHLE1BQU07QUFDckIsc0JBQ0U7QUFBQSwyQkFDRSxxRUFBQywwREFBRDtBQUFBLDhCQUNFLHFFQUFDLHVEQUFEO0FBQUE7QUFBQTtBQUFBO0FBQUEsbUJBREYsZUFFRSxxRUFBQywrREFBRDtBQUFBO0FBQUE7QUFBQTtBQUFBLG1CQUZGLGVBR0UscUVBQUMsMkRBQUQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFIRjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFERixtQkFERjtBQVNELENBVkQ7O0FBWWVBLHVFQUFmIiwiZmlsZSI6Ii4vcGFnZXMvaW5kZXguanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgTGF5b3V0IGZyb20gXCIuLi9jb21wb25lbnRzL0xheW91dFwiO1xuaW1wb3J0IHsgQmxvY2sgfSBmcm9tIFwiLi4vY29tcG9uZW50cy9CbG9ja1wiO1xuaW1wb3J0IHsgRGFya0Jsb2NrIH0gZnJvbSBcIi4uL2NvbXBvbmVudHMvRGFya0Jsb2NrXCI7XG5pbXBvcnQgeyBMYXd5ZXJzIH0gZnJvbSBcIi4uL2NvbXBvbmVudHMvTGF3eWVyc1wiO1xuY29uc3QgSG9tZVBhZ2UgPSAoKSA9PiB7XG4gIHJldHVybiAoXG4gICAgPD5cbiAgICAgIDxMYXlvdXQ+XG4gICAgICAgIDxCbG9jayAvPlxuICAgICAgICA8RGFya0Jsb2NrIC8+XG4gICAgICAgIDxMYXd5ZXJzIC8+XG4gICAgICA8L0xheW91dD5cbiAgICA8Lz5cbiAgKTtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IEhvbWVQYWdlO1xuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/index.js\n");
 
 /***/ }),
 
@@ -609,92 +217,7 @@ const HomePage = () => {
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "LawIcon", function() { return LawIcon; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "MenuIcon", function() { return MenuIcon; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Minerva", function() { return Minerva; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CloseIcon", function() { return CloseIcon; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Shape1", function() { return Shape1; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Shape2", function() { return Shape2; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Shape3", function() { return Shape3; });
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "react/jsx-dev-runtime");
-/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
-
-var _jsxFileName = "C:\\Users\\oguzhan.sezer\\Desktop\\nilsuweb\\styles\\icons.js";
-const LawIcon = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/law-icon.png",
-    alt: "law image"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 2,
-    columnNumber: 10
-  }, undefined);
-};
-const MenuIcon = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/menu-icon.svg",
-    alt: "law image"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 5,
-    columnNumber: 10
-  }, undefined);
-};
-const Minerva = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/minerva-header.svg",
-    alt: "law image"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 8,
-    columnNumber: 10
-  }, undefined);
-};
-const CloseIcon = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/close-icon.png",
-    alt: "law image",
-    className: "closeIcon"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 11,
-    columnNumber: 10
-  }, undefined);
-};
-const Shape1 = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/shape1.svg",
-    alt: "law image",
-    className: "shape1"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 14,
-    columnNumber: 10
-  }, undefined);
-};
-const Shape2 = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/shape2.svg",
-    alt: "law image",
-    className: "shape2"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 17,
-    columnNumber: 10
-  }, undefined);
-};
-const Shape3 = () => {
-  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])("img", {
-    src: "/shape3.svg",
-    alt: "law image",
-    className: "shape3"
-  }, void 0, false, {
-    fileName: _jsxFileName,
-    lineNumber: 20,
-    columnNumber: 10
-  }, undefined);
-};
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"LawIcon\", function() { return LawIcon; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"MenuIcon\", function() { return MenuIcon; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"Minerva\", function() { return Minerva; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"CloseIcon\", function() { return CloseIcon; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"Shape1\", function() { return Shape1; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"Shape2\", function() { return Shape2; });\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"Shape3\", function() { return Shape3; });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n\nvar _jsxFileName = \"/Users/oguzhansezer/Desktop/Projects/lawyerWebSiteNext/styles/icons.js\";\nconst LawIcon = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/law-icon.png\",\n    alt: \"law image\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 2,\n    columnNumber: 10\n  }, undefined);\n};\nconst MenuIcon = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/menu-icon.svg\",\n    alt: \"law image\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 5,\n    columnNumber: 10\n  }, undefined);\n};\nconst Minerva = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/minerva-header.svg\",\n    alt: \"law image\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 8,\n    columnNumber: 10\n  }, undefined);\n};\nconst CloseIcon = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/close-icon.png\",\n    alt: \"law image\",\n    className: \"closeIcon\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 11,\n    columnNumber: 10\n  }, undefined);\n};\nconst Shape1 = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/shape1.svg\",\n    alt: \"law image\",\n    className: \"shape1\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 14,\n    columnNumber: 10\n  }, undefined);\n};\nconst Shape2 = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/shape2.svg\",\n    alt: \"law image\",\n    className: \"shape2\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 17,\n    columnNumber: 10\n  }, undefined);\n};\nconst Shape3 = () => {\n  return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__[\"jsxDEV\"])(\"img\", {\n    src: \"/shape3.svg\",\n    alt: \"law image\",\n    className: \"shape3\"\n  }, void 0, false, {\n    fileName: _jsxFileName,\n    lineNumber: 20,\n    columnNumber: 10\n  }, undefined);\n};//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zdHlsZXMvaWNvbnMuanM/YzUxZSJdLCJuYW1lcyI6WyJMYXdJY29uIiwiTWVudUljb24iLCJNaW5lcnZhIiwiQ2xvc2VJY29uIiwiU2hhcGUxIiwiU2hhcGUyIiwiU2hhcGUzIl0sIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7Ozs7QUFBTyxNQUFNQSxPQUFPLEdBQUcsTUFBTTtBQUMzQixzQkFBTztBQUFLLE9BQUcsRUFBQyxlQUFUO0FBQXlCLE9BQUcsRUFBQztBQUE3QjtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBQVA7QUFDRCxDQUZNO0FBR0EsTUFBTUMsUUFBUSxHQUFHLE1BQU07QUFDNUIsc0JBQU87QUFBSyxPQUFHLEVBQUMsZ0JBQVQ7QUFBMEIsT0FBRyxFQUFDO0FBQTlCO0FBQUE7QUFBQTtBQUFBO0FBQUEsZUFBUDtBQUNELENBRk07QUFHQSxNQUFNQyxPQUFPLEdBQUcsTUFBTTtBQUMzQixzQkFBTztBQUFLLE9BQUcsRUFBQyxxQkFBVDtBQUErQixPQUFHLEVBQUM7QUFBbkM7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0QsQ0FGTTtBQUdBLE1BQU1DLFNBQVMsR0FBRyxNQUFNO0FBQzdCLHNCQUFPO0FBQUssT0FBRyxFQUFDLGlCQUFUO0FBQTJCLE9BQUcsRUFBQyxXQUEvQjtBQUEyQyxhQUFTLEVBQUM7QUFBckQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0QsQ0FGTTtBQUdBLE1BQU1DLE1BQU0sR0FBRyxNQUFNO0FBQzFCLHNCQUFPO0FBQUssT0FBRyxFQUFDLGFBQVQ7QUFBdUIsT0FBRyxFQUFDLFdBQTNCO0FBQXVDLGFBQVMsRUFBQztBQUFqRDtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBQVA7QUFDRCxDQUZNO0FBR0EsTUFBTUMsTUFBTSxHQUFHLE1BQU07QUFDMUIsc0JBQU87QUFBSyxPQUFHLEVBQUMsYUFBVDtBQUF1QixPQUFHLEVBQUMsV0FBM0I7QUFBdUMsYUFBUyxFQUFDO0FBQWpEO0FBQUE7QUFBQTtBQUFBO0FBQUEsZUFBUDtBQUNELENBRk07QUFHQSxNQUFNQyxNQUFNLEdBQUcsTUFBTTtBQUMxQixzQkFBTztBQUFLLE9BQUcsRUFBQyxhQUFUO0FBQXVCLE9BQUcsRUFBQyxXQUEzQjtBQUF1QyxhQUFTLEVBQUM7QUFBakQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0QsQ0FGTSIsImZpbGUiOiIuL3N0eWxlcy9pY29ucy5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjb25zdCBMYXdJY29uID0gKCkgPT4ge1xuICByZXR1cm4gPGltZyBzcmM9XCIvbGF3LWljb24ucG5nXCIgYWx0PVwibGF3IGltYWdlXCIgLz47XG59O1xuZXhwb3J0IGNvbnN0IE1lbnVJY29uID0gKCkgPT4ge1xuICByZXR1cm4gPGltZyBzcmM9XCIvbWVudS1pY29uLnN2Z1wiIGFsdD1cImxhdyBpbWFnZVwiIC8+O1xufTtcbmV4cG9ydCBjb25zdCBNaW5lcnZhID0gKCkgPT4ge1xuICByZXR1cm4gPGltZyBzcmM9XCIvbWluZXJ2YS1oZWFkZXIuc3ZnXCIgYWx0PVwibGF3IGltYWdlXCIgLz47XG59O1xuZXhwb3J0IGNvbnN0IENsb3NlSWNvbiA9ICgpID0+IHtcbiAgcmV0dXJuIDxpbWcgc3JjPVwiL2Nsb3NlLWljb24ucG5nXCIgYWx0PVwibGF3IGltYWdlXCIgY2xhc3NOYW1lPVwiY2xvc2VJY29uXCIgLz47XG59O1xuZXhwb3J0IGNvbnN0IFNoYXBlMSA9ICgpID0+IHtcbiAgcmV0dXJuIDxpbWcgc3JjPVwiL3NoYXBlMS5zdmdcIiBhbHQ9XCJsYXcgaW1hZ2VcIiBjbGFzc05hbWU9XCJzaGFwZTFcIiAvPjtcbn07XG5leHBvcnQgY29uc3QgU2hhcGUyID0gKCkgPT4ge1xuICByZXR1cm4gPGltZyBzcmM9XCIvc2hhcGUyLnN2Z1wiIGFsdD1cImxhdyBpbWFnZVwiIGNsYXNzTmFtZT1cInNoYXBlMlwiIC8+O1xufTtcbmV4cG9ydCBjb25zdCBTaGFwZTMgPSAoKSA9PiB7XG4gIHJldHVybiA8aW1nIHNyYz1cIi9zaGFwZTMuc3ZnXCIgYWx0PVwibGF3IGltYWdlXCIgY2xhc3NOYW1lPVwic2hhcGUzXCIgLz47XG59O1xuIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./styles/icons.js\n");
 
 /***/ }),
 
@@ -705,9 +228,8 @@ const Shape3 = () => {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = require("react/jsx-dev-runtime");
+eval("module.exports = require(\"react/jsx-dev-runtime\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vZXh0ZXJuYWwgXCJyZWFjdC9qc3gtZGV2LXJ1bnRpbWVcIj9jZDkwIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIiwiZmlsZSI6InJlYWN0L2pzeC1kZXYtcnVudGltZS5qcyIsInNvdXJjZXNDb250ZW50IjpbIm1vZHVsZS5leHBvcnRzID0gcmVxdWlyZShcInJlYWN0L2pzeC1kZXYtcnVudGltZVwiKTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///react/jsx-dev-runtime\n");
 
 /***/ })
 
 /******/ });
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vd2VicGFjay9ib290c3RyYXAiLCJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9CbG9jay5qcyIsIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0RhcmtCbG9jay5qcyIsIndlYnBhY2s6Ly8vLi9jb21wb25lbnRzL0xhd3llcnMuanMiLCJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9MYXlvdXQuanMiLCJ3ZWJwYWNrOi8vLy4vY29tcG9uZW50cy9TdWJCbG9jay5qcyIsIndlYnBhY2s6Ly8vLi9wYWdlcy9pbmRleC5qcyIsIndlYnBhY2s6Ly8vLi9zdHlsZXMvaWNvbnMuanMiLCJ3ZWJwYWNrOi8vL2V4dGVybmFsIFwicmVhY3QvanN4LWRldi1ydW50aW1lXCIiXSwibmFtZXMiOlsiQmxvY2siLCJEYXJrQmxvY2siLCJMYXd5ZXJzIiwiTGF3eWVyVGl0bGUiLCJMYXd5ZXJCbG9ja3MiLCJMYXlvdXQiLCJjaGlsZHJlbiIsIlN1YkJsb2NrIiwiSG9tZVBhZ2UiLCJMYXdJY29uIiwiTWVudUljb24iLCJNaW5lcnZhIiwiQ2xvc2VJY29uIiwiU2hhcGUxIiwiU2hhcGUyIiwiU2hhcGUzIl0sIm1hcHBpbmdzIjoiOztRQUFBO1FBQ0E7O1FBRUE7UUFDQTs7UUFFQTtRQUNBO1FBQ0E7UUFDQTtRQUNBO1FBQ0E7UUFDQTtRQUNBO1FBQ0E7UUFDQTs7UUFFQTtRQUNBO1FBQ0E7UUFDQTtRQUNBO1FBQ0EsSUFBSTtRQUNKO1FBQ0E7O1FBRUE7UUFDQTs7UUFFQTtRQUNBO1FBQ0E7OztRQUdBO1FBQ0E7O1FBRUE7UUFDQTs7UUFFQTtRQUNBO1FBQ0E7UUFDQSwwQ0FBMEMsZ0NBQWdDO1FBQzFFO1FBQ0E7O1FBRUE7UUFDQTtRQUNBO1FBQ0Esd0RBQXdELGtCQUFrQjtRQUMxRTtRQUNBLGlEQUFpRCxjQUFjO1FBQy9EOztRQUVBO1FBQ0E7UUFDQTtRQUNBO1FBQ0E7UUFDQTtRQUNBO1FBQ0E7UUFDQTtRQUNBO1FBQ0E7UUFDQSx5Q0FBeUMsaUNBQWlDO1FB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QUFBQTtBQUFBO0FBQUEsZUFBUDtBQUNELENBRk07QUFHQSxNQUFNQyxPQUFPLEdBQUcsTUFBTTtBQUMzQixzQkFBTztBQUFLLE9BQUcsRUFBQyxxQkFBVDtBQUErQixPQUFHLEVBQUM7QUFBbkM7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0QsQ0FGTTtBQUdBLE1BQU1DLFNBQVMsR0FBRyxNQUFNO0FBQzdCLHNCQUFPO0FBQUssT0FBRyxFQUFDLGlCQUFUO0FBQTJCLE9BQUcsRUFBQyxXQUEvQjtBQUEyQyxhQUFTLEVBQUM7QUFBckQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0QsQ0FGTTtBQUdBLE1BQU1DLE1BQU0sR0FBRyxNQUFNO0FBQzFCLHNCQUFPO0FBQUssT0FBRyxFQUFDLGFBQVQ7QUFBdUIsT0FBRyxFQUFDLFdBQTNCO0FBQXVDLGFBQVMsRUFBQztBQUFqRDtBQUFBO0FBQUE7QUFBQTtBQUFBLGVBQVA7QUFDRCxDQUZNO0FBR0EsTUFBTUMsTUFBTSxHQUFHLE1BQU07QUFDMUIsc0JBQU87QUFBSyxPQUFHLEVBQUMsYUFBVDtBQUF1QixPQUFHLEVBQUMsV0FBM0I7QUFBdUMsYUFBUyxFQUFDO0FBQWpEO0FBQUE7QUFBQTtBQUFBO0FBQUEsZUFBUDtBQUNELENBRk07QUFHQSxNQUFNQyxNQUFNLEdBQUcsTUFBTTtBQUMxQixzQkFBTztBQUFLLE9BQUcsRUFBQyxhQUFUO0FBQXVCLE9BQUcsRUFBQyxXQUEzQjtBQUF1QyxhQUFTLEVBQUM7QUFBakQ7QUFBQTtBQUFBO0FBQUE7QUFBQSxlQUFQO0FBQ0QsQ0FGTSxDOzs7Ozs7Ozs7OztBQ2xCUCxrRCIsImZpbGUiOiJwYWdlcy9pbmRleC5qcyIsInNvdXJjZXNDb250ZW50IjpbIiBcdC8vIFRoZSBtb2R1bGUgY2FjaGVcbiBcdHZhciBpbnN0YWxsZWRNb2R1bGVzID0gcmVxdWlyZSgnLi4vc3NyLW1vZHVsZS1jYWNoZS5qcycpO1xuXG4gXHQvLyBUaGUgcmVxdWlyZSBmdW5jdGlvblxuIFx0ZnVuY3Rpb24gX193ZWJwYWNrX3JlcXVpcmVfXyhtb2R1bGVJZCkge1xuXG4gXHRcdC8vIENoZWNrIGlmIG1vZHVsZSBpcyBpbiBjYWNoZVxuIFx0XHRpZihpbnN0YWxsZWRNb2R1bGVzW21vZHVsZUlkXSkge1xuIFx0XHRcdHJldHVybiBpbnN0YWxsZWRNb2R1bGVzW21vZHVsZUlkXS5leHBvcnRzO1xuIFx0XHR9XG4gXHRcdC8vIENyZWF0ZSBhIG5ldyBtb2R1bGUgKGFuZCBwdXQgaXQgaW50byB0aGUgY2FjaGUpXG4gXHRcdHZhciBtb2R1bGUgPSBpbnN0YWxsZWRNb2R1bGVzW21vZHVsZUlkXSA9IHtcbiBcdFx0XHRpOiBtb2R1bGVJZCxcbiBcdFx0XHRsOiBmYWxzZSxcbiBcdFx0XHRleHBvcnRzOiB7fVxuIFx0XHR9O1xuXG4gXHRcdC8vIEV4ZWN1dGUgdGhlIG1vZHVsZSBmdW5jdGlvblxuIFx0XHR2YXIgdGhyZXcgPSB0cnVlO1xuIFx0XHR0cnkge1xuIFx0XHRcdG1vZHVsZXNbbW9kdWxlSWRdLmNhbGwobW9kdWxlLmV4cG9ydHMsIG1vZHVsZSwgbW9kdWxlLmV4cG9ydHMsIF9fd2VicGFja19yZXF1aXJlX18pO1xuIFx0XHRcdHRocmV3ID0gZmFsc2U7XG4gXHRcdH0gZmluYWxseSB7XG4gXHRcdFx0aWYodGhyZXcpIGRlbGV0ZSBpbnN0YWxsZWRNb2R1bGVzW21vZHVsZUlkXTtcbiBcdFx0fVxuXG4gXHRcdC8vIEZsYWcgdGhlIG1vZHVsZSBhcyBsb2FkZWRcbiBcdFx0bW9kdWxlLmwgPSB0cnVlO1xuXG4gXHRcdC8vIFJldHVybiB0aGUgZXhwb3J0cyBvZiB0aGUgbW9kdWxlXG4gXHRcdHJldHVybiBtb2R1bGUuZXhwb3J0cztcbiBcdH1cblxuXG4gXHQvLyBleHBvc2UgdGhlIG1vZHVsZXMgb2JqZWN0IChfX3dlYnBhY2tfbW9kdWxlc19fKVxuIFx0X193ZWJwYWNrX3JlcXVpcmVfXy5tID0gbW9kdWxlcztcblxuIFx0Ly8gZXhwb3NlIHRoZSBtb2R1bGUgY2FjaGVcbiBcdF9fd2VicGFja19yZXF1aXJlX18uYyA9IGluc3RhbGxlZE1vZHVsZXM7XG5cbiBcdC8vIGRlZmluZSBnZXR0ZXIgZnVuY3Rpb24gZm9yIGhhcm1vbnkgZXhwb3J0c1xuIFx0X193ZWJwYWNrX3JlcXVpcmVfXy5kID0gZnVuY3Rpb24oZXhwb3J0cywgbmFtZSwgZ2V0dGVyKSB7XG4gXHRcdGlmKCFfX3dlYnBhY2tfcmVxdWlyZV9fLm8oZXhwb3J0cywgbmFtZSkpIHtcbiBcdFx0XHRPYmplY3QuZGVmaW5lUHJvcGVydHkoZXhwb3J0cywgbmFtZSwgeyBlbnVtZXJhYmxlOiB0cnVlLCBnZXQ6IGdldHRlciB9KTtcbiBcdFx0fVxuIFx0fTtcblxuIFx0Ly8gZGVmaW5lIF9fZXNNb2R1bGUgb24gZXhwb3J0c1xuIFx0X193ZWJwYWNrX3JlcXVpcmVfXy5yID0gZnVuY3Rpb24oZXhwb3J0cykge1xuIFx0XHRpZih0eXBlb2YgU3ltYm9sICE9PSAndW5kZWZpbmVkJyAmJiBTeW1ib2wudG9TdHJpbmdUYWcpIHtcbiBcdFx0XHRPYmplY3QuZGVmaW5lUHJvcGVydHkoZXhwb3J0cywgU3ltYm9sLnRvU3RyaW5nVGFnLCB7IHZhbHVlOiAnTW9kdWxlJyB9KTtcbiBcdFx0fVxuIFx0XHRPYmplY3QuZGVmaW5lUHJvcGVydHkoZXhwb3J0cywgJ19fZXNNb2R1bGUnLCB7IHZhbHVlOiB0cnVlIH0pO1xuIFx0fTtcblxuIFx0Ly8gY3JlYXRlIGEgZmFrZSBuYW1lc3BhY2Ugb2JqZWN0XG4gXHQvLyBtb2RlICYgMTogdmFsdWUgaXMgYSBtb2R1bGUgaWQsIHJlcXVpcmUgaXRcbiBcdC8vIG1vZGUgJiAyOiBtZXJnZSBhbGwgcHJvcGVydGllcyBvZiB2YWx1ZSBpbnRvIHRoZSBuc1xuIFx0Ly8gbW9kZSAmIDQ6IHJldHVybiB2YWx1ZSB3aGVuIGFscmVhZHkgbnMgb2JqZWN0XG4gXHQvLyBtb2RlICYgOHwxOiBiZWhhdmUgbGlrZSByZXF1aXJlXG4gXHRfX3dlYnBhY2tfcmVxdWlyZV9fLnQgPSBmdW5jdGlvbih2YWx1ZSwgbW9kZSkge1xuIFx0XHRpZihtb2RlICYgMSkgdmFsdWUgPSBfX3dlYnBhY2tfcmVxdWlyZV9fKHZhbHVlKTtcbiBcdFx0aWYobW9kZSAmIDgpIHJldHVybiB2YWx1ZTtcbiBcdFx0aWYoKG1vZGUgJiA0KSAmJiB0eXBlb2YgdmFsdWUgPT09ICdvYmplY3QnICYmIHZhbHVlICYmIHZhbHVlLl9fZXNNb2R1bGUpIHJldHVybiB2YWx1ZTtcbiBcdFx0dmFyIG5zID0gT2JqZWN0LmNyZWF0ZShudWxsKTtcbiBcdFx0X193ZWJwYWNrX3JlcXVpcmVfXy5yKG5zKTtcbiBcdFx0T2JqZWN0LmRlZmluZVByb3BlcnR5KG5zLCAnZGVmYXVsdCcsIHsgZW51bWVyYWJsZTogdHJ1ZSwgdmFsdWU6IHZhbHVlIH0pO1xuIFx0XHRpZihtb2RlICYgMiAmJiB0eXBlb2YgdmFsdWUgIT0gJ3N0cmluZycpIGZvcih2YXIga2V5IGluIHZhbHVlKSBfX3dlYnBhY2tfcmVxdWlyZV9fLmQobnMsIGtleSwgZnVuY3Rpb24oa2V5KSB7IHJldHVybiB2YWx1ZVtrZXldOyB9LmJpbmQobnVsbCwga2V5KSk7XG4gXHRcdHJldHVybiBucztcbiBcdH07XG5cbiBcdC8vIGdldERlZmF1bHRFeHBvcnQgZnVuY3Rpb24gZm9yIGNvbXBhdGliaWxpdHkgd2l0aCBub24taGFybW9ueSBtb2R1bGVzXG4gXHRfX3dlYnBhY2tfcmVxdWlyZV9fLm4gPSBmdW5jdGlvbihtb2R1bGUpIHtcbiBcdFx0dmFyIGdldHRlciA9IG1vZHVsZSAmJiBtb2R1bGUuX19lc01vZHVsZSA/XG4gXHRcdFx0ZnVuY3Rpb24gZ2V0RGVmYXVsdCgpIHsgcmV0dXJuIG1vZHVsZVsnZGVmYXVsdCddOyB9IDpcbiBcdFx0XHRmdW5jdGlvbiBnZXRNb2R1bGVFeHBvcnRzKCkgeyByZXR1cm4gbW9kdWxlOyB9O1xuIFx0XHRfX3dlYnBhY2tfcmVxdWlyZV9fLmQoZ2V0dGVyLCAnYScsIGdldHRlcik7XG4gXHRcdHJldHVybiBnZXR0ZXI7XG4gXHR9O1xuXG4gXHQvLyBPYmplY3QucHJvdG90eXBlLmhhc093blByb3BlcnR5LmNhbGxcbiBcdF9fd2VicGFja19yZXF1aXJlX18ubyA9IGZ1bmN0aW9uKG9iamVjdCwgcHJvcGVydHkpIHsgcmV0dXJuIE9iamVjdC5wcm90b3R5cGUuaGFzT3duUHJvcGVydHkuY2FsbChvYmplY3QsIHByb3BlcnR5KTsgfTtcblxuIFx0Ly8gX193ZWJwYWNrX3B1YmxpY19wYXRoX19cbiBcdF9fd2VicGFja19yZXF1aXJlX18ucCA9IFwiXCI7XG5cblxuIFx0Ly8gTG9hZCBlbnRyeSBtb2R1bGUgYW5kIHJldHVybiBleHBvcnRzXG4gXHRyZXR1cm4gX193ZWJwYWNrX3JlcXVpcmVfXyhfX3dlYnBhY2tfcmVxdWlyZV9fLnMgPSBcIi4vcGFnZXMvaW5kZXguanNcIik7XG4iLCJpbXBvcnQgU3ViQmxvY2sgZnJvbSBcIi4vU3ViQmxvY2tcIjtcclxuZXhwb3J0IGNvbnN0IEJsb2NrID0gKCkgPT4ge1xyXG4gIHJldHVybiAoXHJcbiAgICA8PlxyXG4gICAgICA8U3ViQmxvY2sgLz5cclxuICAgICAgPGEgaHJlZj1cIiN3YWFyZGVzXCIgY2xhc3NOYW1lPVwic2Nyb2xsLWRvd25cIj48L2E+XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVyLWltYWdlXCI+PC9kaXY+XHJcbiAgICA8Lz5cclxuICApO1xyXG59O1xyXG4iLCJpbXBvcnQgXCIuL0RhcmtCbG9jay5zY3NzXCI7XHJcbmltcG9ydCB7IFNoYXBlMSwgU2hhcGUyLCBTaGFwZTMgfSBmcm9tIFwiLi4vc3R5bGVzL2ljb25zLmpzXCI7XHJcbmV4cG9ydCBjb25zdCBEYXJrQmxvY2sgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwiZGFya0Jsb2NrXCI+XHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiaGVhZGVySW1hZ2VcIj48L2Rpdj5cclxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJoZWFkZXJDb250YWN0XCI+XHJcbiAgICAgICAgPGxpPlxyXG4gICAgICAgICAgPHNwYW4+RTo8L3NwYW4+XHJcbiAgICAgICAgICA8YSBocmVmPVwibWFpbHRvOmluZm9AbWluZXJ2YS1hZHZvY2F0ZW4ubmxcIj5cclxuICAgICAgICAgICAge1wibmlsc3VvbmRlckBnbWFpbC5jb21cIn1cclxuICAgICAgICAgIDwvYT5cclxuICAgICAgICA8L2xpPlxyXG4gICAgICAgIDxsaT5cclxuICAgICAgICAgIDxzcGFuPlQ6PC9zcGFuPlxyXG4gICAgICAgICAgPGEgaHJlZj1cInRlbDorMzExMDMwNzY2NzdcIj57XCIrNTQ0IDUyMCA3MCA5N1wifTwvYT5cclxuICAgICAgICA8L2xpPlxyXG4gICAgICA8L2Rpdj5cclxuXHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwic2hhcGVzXCI+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJzaGFwZVwiPlxyXG4gICAgICAgICAgPFNoYXBlMSAvPlxyXG4gICAgICAgICAgPGgzPkNlemEgSHVrdWt1PC9oMz5cclxuICAgICAgICAgIDxwPlxyXG4gICAgICAgICAgICBBxJ/EsXIgY2V6YSBhdnVrYXTEsSBvbGFyYWssIEFuYXlhc2FtxLF6Y2Ega29ydW5hbiBhZGlsIHlhcmfEsWxhbm1hIGhha2vEsVxyXG4gICAgICAgICAgICDDp2Vyw6dldmVzaW5kZSBtw7x2ZWtraWxsZXJpbWl6aSBzYXZ1bm1hayB2ZSBjZXphIGRhdmFsYXLEsW5kYSBtw7zFn3Rla2lcclxuICAgICAgICAgICAgdmVraWxpIG9sYXJhayBjZXphIGRhdmFzxLFuxLFuIHRha2liaSBnaWJpIGtvbnVsYXJkYSBoaXptZXRcclxuICAgICAgICAgICAgdmVybWVrdGV5aXouXHJcbiAgICAgICAgICA8L3A+XHJcbiAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwic2hhcGVcIj5cclxuICAgICAgICAgIDxTaGFwZTIgLz5cclxuICAgICAgICAgIDxoMz5UaWNhcmV0IHZlIMWeaXJrZXRsZXIgSHVrdWt1PC9oMz5cclxuICAgICAgICAgIDxwPlxyXG4gICAgICAgICAgICDFnmlya2V0bGVyIGFyYXPEsSB0aWNhcmkgaWxpxZ9raWxlcmRlIHPDtnpsZcWfbWVsZXJpbiBoYXrEsXJsYW5tYXPEsSxcclxuICAgICAgICAgICAgacWfw6dpbGVybGUgYWxha2FsxLEgZmVzaWggdmUgZGnEn2VyIGnFn2xlbWxlciBnaWJpIGtvbnVsYXJkYSB2ZSDDp2VrXHJcbiAgICAgICAgICAgIHNlbmV0IHRhaHNpbGkga29udWxhcsSxbmRhIHRpY2FyZXQgdmUgxZ9pcmtldGxlciBodWt1a3UgYXZ1a2F0xLEgb2xhcmFrXHJcbiAgICAgICAgICAgIGh1a3VraSBkYW7EscWfbWFubMSxayB2ZSBwcm9mZXN5b25lbCBhdnVrYXRsxLFrIGhpem1ldGkgdmVybWVrdGV5aXouXHJcbiAgICAgICAgICA8L3A+XHJcbiAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwic2hhcGVcIj5cclxuICAgICAgICAgIDxTaGFwZTMgLz5cclxuICAgICAgICAgIDxoMz5TcG9yIEh1a3VrdTwvaDM+XHJcbiAgICAgICAgICA8cD5cclxuICAgICAgICAgICAgU3BvcmN1bGFyxLFuIHPDtnpsZcWfbWVsZXJpbmRlbiBkb8SfYW4gdXl1xZ9tYXpsxLFrbGFyxLFuIMOnw7Z6w7xtw7wsXHJcbiAgICAgICAgICAgIGFsYWNha2xhcsSxbsSxbiB0YWhzaWxpIHZlIHNwb3Iga3Vsw7xwbGVyaW5lIGRhbsSxxZ9tYW5sxLFrIGdpYmkga29udWxhcmRhXHJcbiAgICAgICAgICAgIHNwb3IgaHVrdWt1IGF2dWthdMSxIG9sYXJhayBoaXptZXRpIHZlcm1la3RleWl6LlxyXG4gICAgICAgICAgPC9wPlxyXG4gICAgICAgIDwvZGl2PlxyXG4gICAgICA8L2Rpdj5cclxuICAgIDwvZGl2PlxyXG4gICk7XHJcbn07XHJcbiIsImltcG9ydCBcIi4vTGF3eWVycy5zY3NzXCI7XHJcbmV4cG9ydCBjb25zdCBMYXd5ZXJzID0gKCkgPT4ge1xyXG4gIGNvbnN0IExhd3llclRpdGxlID0gKCkgPT4ge1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJ3cmFwV2lkZVwiPlxyXG4gICAgICAgIDxkaXYgY2xhc3NOYW1lPVwibGF3eWVyVGl0bGVcIj5cclxuICAgICAgICAgIDxoMj5PbnplIEFkdm9jYXRlbjwvaDI+XHJcbiAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJsYXd5ZXJTdWJUaXRsZVwiPlxyXG4gICAgICAgICAgPHA+XHJcbiAgICAgICAgICAgIE9uemUgQWR2b2NhdGVuIE9ucyB0ZWFtIGJlc3RhYXQgdWl0IGRlIGFkdm9jYXRlbiBNYXJjZWwgdmFuIGRlblxyXG4gICAgICAgICAgICBFbmRlLCBKYWNrIExlZW1hbiBlbiBIZWluIEtlcm5rYW1wOyBpbiBodW4gcHJha3Rpamt2b2VyaW5nIHdvcmRlblxyXG4gICAgICAgICAgICB6aWogb25kZXJzdGV1bmQgZG9vciBvZmZpY2VtYW5hZ2VyIEphY3F1ZWxpbmUgQmxvay5cclxuICAgICAgICAgIDwvcD5cclxuICAgICAgICA8L2Rpdj5cclxuICAgICAgPC9kaXY+XHJcbiAgICApO1xyXG4gIH07XHJcblxyXG4gIGNvbnN0IExhd3llckJsb2NrcyA9ICgpID0+IHtcclxuICAgIHJldHVybiAoXHJcbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwiYWR2b2NhYXRcIj5cclxuICAgICAgICA8ZGl2IGNsYXNzTmFtZT1cImxhd3llclRyYW5zcGFyZW50XCI+PC9kaXY+XHJcbiAgICAgICAgPGRpdiBjbGFzc05hbWU9XCJMYXd5ZXJJbmZvXCI+XHJcbiAgICAgICAgICA8aDM+QWR2b2NhYXQ8L2gzPlxyXG4gICAgICAgICAgPGgyPk1hcmNlbCB2YW4gZGVuIEVuZGU8L2gyPlxyXG4gICAgICAgIDwvZGl2PlxyXG4gICAgICA8L2Rpdj5cclxuICAgICk7XHJcbiAgfTtcclxuXHJcbiAgcmV0dXJuIChcclxuICAgIDxkaXYgY2xhc3NOYW1lPVwibGF3eWVyc1wiPlxyXG4gICAgICA8TGF3eWVyVGl0bGUgLz5cclxuICAgICAgPExhd3llckJsb2NrcyAvPlxyXG4gICAgPC9kaXY+XHJcbiAgKTtcclxufTtcclxuIiwiLyogZXNsaW50LWRpc2FibGUgcmVhY3QvcHJvcC10eXBlcyAqL1xyXG5pbXBvcnQgXCIuL0xheW91dC5zY3NzXCI7XHJcbmNvbnN0IExheW91dCA9ICh7IGNoaWxkcmVuIH0pID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdiBjbGFzc05hbWU9XCJsYXlvdXRcIj5cclxuICAgICAgPGRpdiBjbGFzc05hbWU9XCJjb250ZW50XCI+IHtjaGlsZHJlbn0gPC9kaXY+XHJcbiAgICA8L2Rpdj5cclxuICApO1xyXG59O1xyXG5leHBvcnQgZGVmYXVsdCBMYXlvdXQ7XHJcbiIsImltcG9ydCBcIi4vU3ViQmxvY2suc2Nzc1wiO1xyXG5jb25zdCBTdWJCbG9jayA9ICgpID0+IHtcclxuICByZXR1cm4gKFxyXG4gICAgPGRpdiBjbGFzc05hbWU9XCJzdWJCbG9ja1wiPlxyXG4gICAgICA8ZGl2IGNsYXNzTmFtZT1cImhlYWRlckxlZnRcIj5cclxuICAgICAgICA8aDM+IHtcIlllbmlsaWvDp2kgdmUgS2FsaXRlbGkgSGl6bWV0XCJ9PC9oMz5cclxuICAgICAgICA8aDE+XHJcbiAgICAgICAgICB7XCIgXCJ9XHJcbiAgICAgICAgICB7XCIgw5ZuZGVyIEh1a3VrIHZlIERhbsSxxZ9tYW5sxLFrIHTDvG0gaHVrdWtpIHNvcnVubGFyxLFuxLF6ZGEgeWFuxLFuxLF6ZGEuXCJ9XHJcbiAgICAgICAgPC9oMT5cclxuICAgICAgICA8cD5cclxuICAgICAgICAgIHtgIE3DvHZla2tpbGxlcmluZSBlbiBpeWkgxZ9la2lsZGUgaGl6bWV0IHZlcm1layDDlm5kZXIgSHVrdWsgdmUgRGFuxLHFn21hbmzEsWsgQsO8cm9zdSdudW4gYW5hIHByZW5zaWJpZGlyLiBcclxuICAgICAgICAgIMOWbmRlciBIdWt1ayBvbGFyYWsgbcO8dmVra2lsbGVyaW1pemUgaWh0aXlhw6cgZHV5ZHVrbGFyxLEgaHVrdWtpIGRlc3RlxJ9pIGVuIGjEsXpsxLEgdmUgZW4gZ8O8dmVuaWxpciDFn2VraWxkZSBzYcSfbGFtYWt0YXnEsXouYH1cclxuICAgICAgICA8L3A+XHJcbiAgICAgIDwvZGl2PlxyXG4gICAgPC9kaXY+XHJcbiAgKTtcclxufTtcclxuZXhwb3J0IGRlZmF1bHQgU3ViQmxvY2s7XHJcbiIsImltcG9ydCBMYXlvdXQgZnJvbSBcIi4uL2NvbXBvbmVudHMvTGF5b3V0XCI7XHJcbmltcG9ydCB7IEJsb2NrIH0gZnJvbSBcIi4uL2NvbXBvbmVudHMvQmxvY2tcIjtcclxuaW1wb3J0IHsgRGFya0Jsb2NrIH0gZnJvbSBcIi4uL2NvbXBvbmVudHMvRGFya0Jsb2NrXCI7XHJcbmltcG9ydCB7IExhd3llcnMgfSBmcm9tIFwiLi4vY29tcG9uZW50cy9MYXd5ZXJzXCI7XHJcbmNvbnN0IEhvbWVQYWdlID0gKCkgPT4ge1xyXG4gIHJldHVybiAoXHJcbiAgICA8PlxyXG4gICAgICA8TGF5b3V0PlxyXG4gICAgICAgIDxCbG9jayAvPlxyXG4gICAgICAgIDxEYXJrQmxvY2sgLz5cclxuICAgICAgICA8TGF3eWVycyAvPlxyXG4gICAgICA8L0xheW91dD5cclxuICAgIDwvPlxyXG4gICk7XHJcbn07XHJcblxyXG5leHBvcnQgZGVmYXVsdCBIb21lUGFnZTtcclxuIiwiZXhwb3J0IGNvbnN0IExhd0ljb24gPSAoKSA9PiB7XHJcbiAgcmV0dXJuIDxpbWcgc3JjPVwiL2xhdy1pY29uLnBuZ1wiIGFsdD1cImxhdyBpbWFnZVwiIC8+O1xyXG59O1xyXG5leHBvcnQgY29uc3QgTWVudUljb24gPSAoKSA9PiB7XHJcbiAgcmV0dXJuIDxpbWcgc3JjPVwiL21lbnUtaWNvbi5zdmdcIiBhbHQ9XCJsYXcgaW1hZ2VcIiAvPjtcclxufTtcclxuZXhwb3J0IGNvbnN0IE1pbmVydmEgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIDxpbWcgc3JjPVwiL21pbmVydmEtaGVhZGVyLnN2Z1wiIGFsdD1cImxhdyBpbWFnZVwiIC8+O1xyXG59O1xyXG5leHBvcnQgY29uc3QgQ2xvc2VJY29uID0gKCkgPT4ge1xyXG4gIHJldHVybiA8aW1nIHNyYz1cIi9jbG9zZS1pY29uLnBuZ1wiIGFsdD1cImxhdyBpbWFnZVwiIGNsYXNzTmFtZT1cImNsb3NlSWNvblwiIC8+O1xyXG59O1xyXG5leHBvcnQgY29uc3QgU2hhcGUxID0gKCkgPT4ge1xyXG4gIHJldHVybiA8aW1nIHNyYz1cIi9zaGFwZTEuc3ZnXCIgYWx0PVwibGF3IGltYWdlXCIgY2xhc3NOYW1lPVwic2hhcGUxXCIgLz47XHJcbn07XHJcbmV4cG9ydCBjb25zdCBTaGFwZTIgPSAoKSA9PiB7XHJcbiAgcmV0dXJuIDxpbWcgc3JjPVwiL3NoYXBlMi5zdmdcIiBhbHQ9XCJsYXcgaW1hZ2VcIiBjbGFzc05hbWU9XCJzaGFwZTJcIiAvPjtcclxufTtcclxuZXhwb3J0IGNvbnN0IFNoYXBlMyA9ICgpID0+IHtcclxuICByZXR1cm4gPGltZyBzcmM9XCIvc2hhcGUzLnN2Z1wiIGFsdD1cImxhdyBpbWFnZVwiIGNsYXNzTmFtZT1cInNoYXBlM1wiIC8+O1xyXG59O1xyXG4iLCJtb2R1bGUuZXhwb3J0cyA9IHJlcXVpcmUoXCJyZWFjdC9qc3gtZGV2LXJ1bnRpbWVcIik7Il0sInNvdXJjZVJvb3QiOiIifQ==
